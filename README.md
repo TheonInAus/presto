@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This is my own project based on my coursework in UNSW COMP6080 Web Front-End Programming.
 
 ## Getting Started
 
